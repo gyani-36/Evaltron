@@ -1,0 +1,1 @@
+Evaltron is a OMR evaaluation software with image processing and machine learning , which is used to evaluate the omr sheets for free of cost which is much useful for the institutions which runs on the small scale cause they can't afford so much huge amount on hardware systems for evaluating
